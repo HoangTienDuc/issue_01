@@ -1,3 +1,8 @@
+# NOTE
+- Add postprocessing using python backend "docs/examples/resnet50_trt/model_repository/postprocess/1/model.py"
+- Add postprocessing in ensemble config - inprogress
+
+
 # Triton Inference Server with DALI backend
 
 This is an example of [DALI (Data Loading Library) backend](https://github.com/NVIDIA/DALI) for image classification on [Triton Inference Server](https://github.com/triton-inference-server/server).
